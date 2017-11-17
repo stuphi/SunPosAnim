@@ -1,7 +1,7 @@
-file caption.mpg
-file caption-intro.mpg
-file intro.mpg
-file body.mpg
-file outro.mpg
-file outro-endnote.mpg
-file endnote.mpg
+file caption.mp4
+file blend1.mp4
+file intro.mp4
+file body.mp4
+file outro.mp4
+file blend2.mp4
+file endnote.mp4
