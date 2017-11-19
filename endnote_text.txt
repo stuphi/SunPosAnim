@@ -1,0 +1,4 @@
+For details on the calculations see the Wikipedia articals on sun position such as
+https://en.wikipedia.org/wiki/Position_of_the_Sun
+For implimentation, see
+https://github.com/stuphi/SunPosAnim

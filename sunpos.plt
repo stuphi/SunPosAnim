@@ -1,5 +1,5 @@
 #set terminal postscript eps enhanced color
-set terminal pngcairo color enhanced font "Century Gothic,24" dashed size 1920,1080
+set terminal pngcairo color enhanced font "IBM Plex Sans,24" dashed size 1920,1080
 set size 1
 
 myTitle="Sun Position at Latitude 51° North"
